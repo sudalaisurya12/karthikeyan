@@ -1,0 +1,1328 @@
+@media (min-width: 1439px) and (max-width: 1920px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .header-doc-name h1 {
+    font-size: 33px;
+    text-align: center;
+  }
+  .header-logo-dep-name h5 {
+    font-size: 18px;
+  }
+  .header-contact-top {
+    margin-left: 27px;
+  }
+  .banner-content h1 {
+    font-size: 50px;
+  }
+  .banner-content h2 {
+    font-size: 40px;
+  }
+  .foot-address-icon i {
+    margin-top: 15px;
+  }
+  .header-logo-dep-name {
+    padding: 0px 9px;
+  }
+  .header-logo {
+    padding-top: 5px;
+    width: 90%;
+  }
+  .header-icon-right {
+    width: 25%;
+  }
+  .header-icon-left {
+    width: 27%;
+  }
+  .menu ul li {
+    padding: 10px 5px;
+    font-size: 12px;
+  }
+  nav.menu ul li ul.cr-dropdown-menu li a {
+    font-size: 10px;
+  }
+  .banner-content {
+    width: 100%;
+    margin: auto;
+  }
+  .home-about-content {
+    margin-top: 20px;
+  }
+  .home-andrology-title h1 {
+    font-size: 32px;
+  }
+  .testimonial-title h1 {
+    font-size: 32px;
+  }
+  .testi-video-content h1 {
+    font-size: 32px;
+  }
+  .home-video-sec {
+    margin-top: -130px;
+    margin-bottom: 40px;
+  }
+  .video-item .video-img {
+    height: 160px;
+  }
+  .head-email-content {
+    padding-right: 10px;
+    padding-top: 4px;
+  }
+  .foot-quick-links ul li {
+    display: inline;
+    padding: 0px 8px;
+    font-size: 12px;
+  }
+  .head-phone-content {
+    padding-right: 35px;
+  }
+  .header-social ul li:nth-child(2) a i {
+    margin: 0px 2px;
+  }
+  element {
+    width: 992px;
+    position: relative;
+    left: -1984px;
+    top: 0px;
+    z-index: 998;
+    opacity: 0;
+    transition: opacity 500ms ease 0s;
+  }
+  .slick-initialized .slick-slide {
+    display: block;
+  }
+  .slick-slide {
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+  }
+  .index-banner {
+    height: 575px !important;
+  }
+  .header-contact-top {
+    margin-left: 18px;
+  }
+  .head-email-content i {
+    color: #fff;
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 3px;
+  }
+  .head-phone-content p {
+    margin-bottom: 0px;
+    font-size: 12px;
+    margin-top: 2px;
+  }
+  .head-email-content p {
+    margin-bottom: 0px;
+    font-size: 13px;
+  }
+  .header-social ul li:nth-child(3) a i {
+    color: #962fbf;
+    transition: 0.3s;
+    margin-right: 2px;
+  }
+  .head-phone-content i {
+    color: #fff;
+    position: absolute;
+    margin-left: -20px;
+    font-size: 12px;
+    margin-top: 0px;
+  }
+  .common-infertility ul li {
+    display: block;
+    width: 36%;
+    margin: auto;
+    text-align: left;
+    line-height: 25px;
+    padding: 0px;
+  }
+  .about-infertility-img {
+    width: 100%;
+    float: right;
+    padding: 30px 0px;
+  }
+  .about-infertility-box {
+    padding: 0px;
+  }
+  .infertility-sprem-box h6 {
+    padding: 11px 5px 0px 5px;
+  }
+  .infertility-treatment-list.top {
+    float: right;
+    padding-right: 0px;
+    padding-left: 10px;
+  }
+  .infertility-treatment-list {
+    padding-right: 10px;
+  }
+  .varicocele-list-box {
+    padding: 5px 0px;
+  }
+  .azoospermia-center-box-content img {
+    margin-top: -40px;
+  }
+  .mirco-img-box {
+    width: 100%;
+    padding: 65px 0px;
+  }
+  .micro-content-box {
+    padding: 0px;
+  }
+  .cryopreservation-img-box {
+    width: 100%;
+  }
+  .cryopreservation-content-box {
+    padding: 0px;
+  }
+  .inferlitity-causes-box ul {
+    padding: 5px;
+    display: inline-flex;
+    flex-direction: column;
+  }
+  .contactus-contact-box p {
+    font-size: 12px;
+  }
+  .contactus-contact-box h6 {
+    font-size: 13px;
+  }
+  .foot-doc-name h3 {
+    font-size: 26px;
+  }
+  .header-logo-dep-name h5 {
+    font-size: 15px;
+  }
+  .banner-area {
+    margin-top: 13px;
+  }
+  .page-banner-bg {
+    margin-top: 13px;
+  }
+  .contactus-contact-box {
+    margin-bottom: 20px;
+  }
+  .page-banner-video-sec .video-item .video-img {
+    height: 160px;
+  }
+  .header-aboutus-page {
+    height: 92px;
+  }
+  .aboutus-doc-name {
+    padding-left: 0px;
+  }
+  .aboutus-content {
+    padding: 15px 20px 30px 28px;
+  }
+  .aboutus-doc-name {
+    margin-top: 5px;
+  }
+  .aboutme-doc-content-box #pills-home-tab {
+    padding: 10px 60px;
+  }
+  .aboutme-doc-content-box #pills-profile-tab {
+    padding: 10px 60px;
+  }
+  .teastimonial-content {
+    min-height: 190px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .mean-container a.meanmenu-reveal {
+    height: 160px !important;
+    line-height: 40px !important;
+    color: red;
+  }
+  .mean-container .mean-bar {
+    border-top: none !important;
+    height: 42px !important;
+    min-height: 42px !important;
+    top: -85px;
+  }
+  .mean-container .mean-nav {
+    margin-top: 95px !important;
+  }
+  .mean-container .mean-nav ul li a {
+    color: #105590 !important;
+    background: #fff !important;
+    font-family: "Saira";
+    transition: 0.3s;
+  }
+  .mean-container .mean-nav ul li a:hover {
+    color: #fff !important;
+    background: #105590 !important;
+  }
+  .mean-container a.meanmenu-reveal.meanclose {
+    color: #fff !important;
+    top: -8px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #fff !important;
+  }
+  .header-contact-top {
+    transform: inherit;
+  }
+  .header-bottom-right {
+    transform: inherit;
+    border-left: none;
+    position: inherit;
+    width: 100%;
+  }
+  .head-email-content {
+    padding-right: 10px;
+    padding-top: 4px;
+  }
+  .head-email-content i {
+    color: #0e3f6a;
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 2px;
+  }
+  .head-phone-content i {
+    color: #0e3f6a;
+    position: absolute;
+    margin-left: -25px;
+  }
+  .head-phone-content p a {
+    color: #0e3f6a;
+    font-family: "Montserrat-SemiBold";
+  }
+  .head-email-content p a {
+    color: #0e3f6a;
+    font-family: "Montserrat-SemiBold";
+  }
+  .header-social {
+    display: none;
+  }
+  .head-nav {
+    background: #0e3f6a;
+    color: #fff;
+    height: 45px;
+    position: relative;
+    z-index: 999;
+  }
+  .banner-area {
+    margin-top: -56px;
+  }
+  .head-email-content {
+    padding-right: 0px;
+    padding-top: 0px;
+  }
+  .head-phone-content {
+    padding-right: 35px;
+  }
+  .header-doc-name h1 {
+    font-size: 27px;
+  }
+  .header-icon-right {
+    width: 25%;
+  }
+  .header-icon-left {
+    width: 27%;
+  }
+  .header-logo-dep-name h5 {
+    font-size: 14px;
+  }
+  .header-logo-dep-name {
+    padding: 0px 9px;
+  }
+  .mean-container a.meanmenu-reveal {
+    top: -9px;
+    right: 13px !important;
+  }
+  .menu-text {
+    margin-top: 7px;
+    margin-bottom: 0px;
+    margin-left: 12px;
+  }
+  .header-contact-top {
+    margin-left: 27px;
+  }
+  .banner-content h1 {
+    font-size: 35px;
+  }
+  .banner-content h2 {
+    font-size: 30px;
+  }
+  .index-banner {
+    height: 490px !important;
+  }
+  .home-about-content {
+    padding: 30px 30px 40px 30px;
+    margin-left: 0px;
+    margin-top: -10px;
+  }
+  .home-andrology-sec .col {
+    flex: 1 0 50%;
+  }
+  .home-andrology-box {
+    margin-bottom: 30px;
+  }
+  .home-andrology-box.five .home-andro-box-content-t-l {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .home-andrology-box.five .home-andro-box-img-b {
+    width: 31%;
+  }
+  .home-andrology-title p {
+    line-height: 25px;
+  }
+  .home-andrology-title h1 {
+    font-size: 28px;
+  }
+  .teastimonial-content {
+    min-height: 140px;
+  }
+  .testi-video-content h1 {
+    font-size: 28px;
+  }
+  .testimonial-title h1 {
+    font-size: 28px;
+  }
+  .home-video-sec {
+    margin-top: -115px;
+  }
+  .footer-doc-left {
+    margin-bottom: 60px;
+  }
+  .header-logo-dep {
+    display: inline-flex;
+    padding: 0px 10px;
+    justify-content: center;
+  }
+  .header-doc-name h1 {
+    font-size: 35px;
+  }
+  .header-logo {
+    text-align: center;
+  }
+  .header-right-contact {
+    display: none;
+  }
+  .copyright {
+    text-align: center;
+  }
+  .copy-para-right {
+    float: none;
+    margin-top: 0px;
+  }
+  .copy-right-content {
+    display: inline-block;
+  }
+  .copyright {
+    padding: 7px 0px;
+  }
+  .video-item .video-img {
+    height: 175px;
+  }
+  .page-banner-bg {
+    min-height: 200px;
+    margin-top: -54px;
+    z-index: 1;
+  }
+  .common-infertility ul li {
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 25px;
+    padding: 0px;
+  }
+  .page-banner-content h1 {
+    padding-top: 75px;
+  }
+  .about-infertility-img {
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+  }
+  .about-infertility-box {
+    padding: 0px;
+  }
+  .infertility-sprem-box h6 {
+    padding: 11px 5px 0px 5px;
+  }
+  .infertility-treatment-list.top {
+    float: none;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .infertility-treatment-list {
+    padding-right: 0px;
+  }
+  .varicocele-list-box {
+    padding: 30px 0px 0px 0px;
+  }
+  .in-causes-list-box {
+    padding: 130px 0px 30px 0px;
+  }
+  .azoospermia-center-box-content img {
+    margin-top: 0px;
+  }
+  .mirco-img-box {
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+  }
+  .micro-content-box {
+    padding: 0px;
+  }
+  .cryopreservation-img-box {
+    width: 100%;
+    padding-top: 10px;
+  }
+  .cryopreservation-content-box {
+    padding: 0px;
+  }
+  .inferlitity-causes-box ul {
+    display: inline;
+    padding: 0px;
+  }
+  .in-list-box {
+    width: 70%;
+    margin: auto;
+  }
+  .contactus-contact-box {
+    margin-bottom: 20px;
+  }
+  .page-banner-video-sec .video-item .video-img {
+    height: 180px;
+  }
+  .header-aboutus-page {
+    background: transparent;
+    box-shadow: none;
+  }
+  .aboutus-doc-img {
+    background-color: transparent;
+  }
+  .aboutus-doc-name {
+    margin-top: 25px;
+  }
+  .aboutme-doc-content-box .nav-pills .nav-link {
+    padding: 10px 34px;
+    margin: 20px 0px;
+  }
+  .aboutme-doc-content-box #pills-profile-tab {
+    padding: 10px 75px;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    display: inline-block;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    display: inherit;
+    width: 51%;
+    margin: auto;
+    position: relative;
+  }
+  .aboutus-content {
+    padding: 22px 30px 40px 30px;
+    margin-left: 0px;
+  }
+  .home-about-sec {
+    padding: 50px 0px 50px 0px;
+  }
+  .home-andrology-box.five {
+    margin-bottom: 0px;
+  }
+  .treat-tabs-img-box {
+    padding-bottom: 15px;
+  }
+  .traetement-page-tabs .nav-pills .nav-link {
+    padding: 10px 30px;
+  }
+}
+@media (max-width: 767px) {
+  .owl-theme .owl-controls {
+    display: none !important;
+  }
+  .mean-container a.meanmenu-reveal {
+    height: 160px !important;
+    line-height: 40px !important;
+    color: red;
+  }
+  .mean-container .mean-bar {
+    border-top: none !important;
+    height: 42px !important;
+    min-height: 42px !important;
+    top: -85px;
+  }
+  .mean-container .mean-nav {
+    margin-top: 95px !important;
+  }
+  .mean-container .mean-nav ul li a {
+    color: #105590 !important;
+    background: #fff !important;
+    font-family: "poppins";
+  }
+  .mean-container a.meanmenu-reveal.meanclose {
+    color: #fff !important;
+    top: -8px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #fff !important;
+  }
+  .header-contact-top {
+    transform: inherit;
+  }
+  .header-bottom-right {
+    transform: inherit;
+    border-left: none;
+    position: inherit;
+    width: 100%;
+  }
+  .head-email-content i {
+    color: #0e3f6a;
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 2px;
+  }
+  .head-phone-content i {
+    color: #0e3f6a;
+    position: absolute;
+    margin-left: -25px;
+  }
+  .head-phone-content p a {
+    color: #0e3f6a;
+    font-family: "Montserrat-SemiBold";
+  }
+  .head-email-content p a {
+    color: #0e3f6a;
+    font-family: "Montserrat-SemiBold";
+  }
+  .header-social {
+    display: none;
+  }
+  .head-nav {
+    background: #0e3f6a;
+    color: #fff;
+    height: 45px;
+    position: relative;
+    z-index: 999;
+  }
+  .banner-area {
+    margin-top: -56px;
+  }
+  .head-phone-content {
+    padding-right: 35px;
+  }
+  .header-doc-name h1 {
+    font-size: 27px;
+  }
+  .header-icon-right {
+    width: 25%;
+  }
+  .header-icon-left {
+    width: 27%;
+  }
+  .header-logo-dep-name h5 {
+    font-size: 14px;
+  }
+  .header-logo-dep-name {
+    padding: 0px 9px;
+  }
+  .mean-container a.meanmenu-reveal {
+    top: -9px;
+    right: 13px !important;
+  }
+  .menu-text {
+    margin-top: 7px;
+    margin-bottom: 0px;
+    margin-left: 12px;
+  }
+  .header-contact-top {
+    margin-left: 27px;
+  }
+  .banner-content h1 {
+    font-size: 27px;
+  }
+  .banner-content h2 {
+    font-size: 22px;
+  }
+  .index-banner {
+    height: 320px !important;
+  }
+  .home-about-content {
+    padding: 30px 30px 40px 30px;
+    margin-left: 0px;
+    margin-top: -10px;
+  }
+  .home-andrology-sec .col {
+    flex: 1 0 50%;
+  }
+  .home-andrology-box {
+    margin-bottom: 30px;
+  }
+  .head-email-content {
+    padding-right: 0px;
+    padding-top: 0px;
+  }
+  .header-logo-dep {
+    display: inline-flex;
+    padding: 0px 10px;
+    justify-content: center;
+  }
+  .header-doc-name h1 {
+    font-size: 35px;
+  }
+  .header-logo {
+    text-align: center;
+  }
+  .header-right-contact {
+    display: none;
+  }
+  .home-andrology-box.five .home-andro-box-content-t-l {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .home-andrology-box.five .home-andro-box-img-b {
+    width: 31%;
+  }
+  .foot-quick-links ul li::before {
+    padding: 0px 9px;
+    color: #fff;
+    position: absolute;
+    content: "\f111";
+    font-size: 7px;
+    font-family: "Font Awesome 5 Free";
+    margin-left: -30px;
+    margin-top: 5px;
+  }
+  .foot-quick-links ul li {
+    display: block;
+    padding-left: 30px !important;
+    margin-bottom: 4px;
+  }
+  .footer-doc-left {
+    margin-bottom: 40px;
+  }
+  .video-item .video-img {
+    height: 215px;
+  }
+  .foot-doc-dep-name {
+    padding-top: 10px;
+  }
+  .copyright {
+    text-align: center;
+  }
+  .copy-para-right {
+    float: none;
+    margin-top: 0px;
+  }
+  .copy-right-content {
+    display: inline-block;
+  }
+  .copy-right-content p {
+    font-size: 13px;
+  }
+  .common-infertility ul li {
+    display: block;
+    width: 68%;
+    margin: auto;
+    text-align: left;
+    line-height: 25px;
+    padding: 0px;
+  }
+  .infertility-sprem-box {
+    text-align: center;
+  }
+  .about-infertility-img {
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+  }
+  .about-infertility-box {
+    padding: 0px;
+  }
+  .infertility-sprem-box h6 {
+    padding: 11px 0px 0px 0px;
+  }
+  .infertility-sprem-box h6 {
+    font-size: 15px;
+  }
+  .infertility-treatment-list.top {
+    float: none;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .infertility-treatment-list {
+    padding-right: 0px;
+  }
+  .varicocele-list-box {
+    padding: 30px 0px 0px 0px;
+  }
+  .in-causes-list-box {
+    padding: 110px 0px 30px 0px;
+  }
+  .azoospermia-center-box-content img {
+    margin-top: 0px;
+  }
+  .mirco-img-box {
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+  }
+  .micro-content-box {
+    padding: 0px;
+  }
+  .cryopreservation-img-box {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .what-infertiliti-box p {
+    font-size: 15px;
+  }
+  .cryopreservation-content-box {
+    padding: 0px;
+  }
+  .inferlitity-causes-box ul {
+    display: inline;
+    padding: 0px;
+  }
+  .in-list-box {
+    width: 70%;
+    margin: auto;
+  }
+  .page-banner-content h1 {
+    padding-top: 55px;
+  }
+  .page-banner-bg {
+    min-height: 160px;
+    margin-top: -54px;
+    z-index: 1;
+    background-position: center right;
+  }
+  .contactus-contact-box {
+    margin-bottom: 20px;
+  }
+  .contactus-contact-box {
+    padding: 15px 36px;
+  }
+  .home-video-sec .video-item {
+    padding-bottom: 20px;
+  }
+  .header-aboutus-page {
+    background: transparent;
+    box-shadow: none;
+  }
+  .aboutus-doc-img {
+    background-color: transparent;
+  }
+  .aboutus-doc-name {
+    margin-top: 25px;
+  }
+  .aboutme-doc-content-box .nav-pills .nav-link {
+    padding: 10px 34px;
+    margin: 20px 0px;
+  }
+  .aboutme-doc-content-box #pills-profile-tab {
+    padding: 10px 75px;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    display: inline-block;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    display: inherit;
+    width: 51%;
+    margin: auto;
+    position: relative;
+  }
+  .aboutus-content {
+    padding: 22px 30px 40px 30px;
+    margin-left: 0px;
+  }
+  .home-about-sec {
+    padding: 50px 0px 50px 0px;
+  }
+  .home-andrology-box.five {
+    margin-bottom: 0px;
+  }
+  .traetement-page-tabs .nav-pills .nav-link {
+    padding: 6px 16px;
+    font-size: 17px;
+  }
+}
+@media (max-width: 575px) {
+  .banner-content {
+    width: 55%;
+    margin: auto;
+  }
+  .index-banner {
+    height: 290px !important;
+  }
+  .banner-content h1 {
+    font-size: 20px;
+  }
+  .banner-content h2 {
+    font-size: 18px;
+  }
+  .slider-content {
+    margin-top: 15%;
+  }
+  .mean-container a.meanmenu-reveal span {
+    height: 3px;
+  }
+  .menu-text {
+    font-size: 18px;
+  }
+  .head-nav {
+    height: 34px;
+  }
+  .testi-video-content h1 {
+    font-size: 26px;
+  }
+  .home-andrology-title h1 {
+    font-size: 26px;
+  }
+  .mean-container a.meanmenu-reveal.meanclose {
+    top: -9px;
+    font-size: 25px !important;
+    color: #fff !important;
+  }
+  .mean-container .mean-nav {
+    margin-top: 89px !important;
+  }
+  .testimonial-title h1 {
+    font-size: 26px;
+  }
+  .copy-right-content p {
+    font-size: 13px;
+  }
+  .testimonial-video-bg-img {
+    margin: 0px;
+  }
+  .infertility-sprem-box {
+    margin-bottom: 30px;
+  }
+  .varicocele-bg-img {
+    padding: 50px 0px;
+  }
+  .infertility-sec-two {
+    padding: 30px 0px;
+  }
+  .in-treatement-box {
+    padding: 25px 0px 0px 0px;
+  }
+  .cryopreservation-sec {
+    padding: 30px 0px;
+  }
+  .in-list-box {
+    width: 87%;
+  }
+  .common-infertility ul li {
+    width: 63%;
+  }
+  .treatment-option-bg {
+    margin: 0px;
+  }
+  .home-about-sec {
+    margin-top: -6px;
+  }
+  .abo-tabs-date-content p {
+    font-size: 17px;
+  }
+}
+@media (max-width: 568px) {
+}
+@media (max-width: 480px) {
+  .index-banner {
+    height: 250px !important;
+  }
+  .home-about-sec {
+    padding: 30px 0px;
+  }
+  .home-about.bton a {
+    padding: 6px 12px;
+  }
+  .home-andrology-title p {
+    line-height: 22px;
+  }
+  .home-andrology-title h1 {
+    font-size: 22px;
+  }
+  .testi-video-content h1 {
+    font-size: 22px;
+  }
+  .testimonial-title h1 {
+    font-size: 22px;
+  }
+  .foot-doc-name h3 {
+    font-size: 22px;
+  }
+  .home-about-content h1 {
+    font-size: 22px;
+  }
+  .index-banner {
+    height: 220px !important;
+  }
+  .banner-content {
+    padding: 13px 0px;
+    width: 70%;
+    margin: auto;
+  }
+  .foot-doc-dep-name h6 {
+    font-size: 15px;
+  }
+  .header-doc-name h1 {
+    font-size: 30px;
+  }
+  .foot-email-content {
+    padding-left: 0px;
+  }
+  .foot-contact {
+    display: inline;
+  }
+  .common-infertility h5 {
+    text-align: left;
+    margin-left: 15px;
+  }
+  .common-infertility ul li {
+    width: 100%;
+    margin-left: 20px;
+  }
+  .page-banner-content h1 {
+    padding-top: 65px;
+    font-size: 25px;
+  }
+  .aboutus-tabs-content h3 {
+    font-size: 22px;
+  }
+  .home-about-sec {
+    margin-top: -12px;
+  }
+  .aboutme-doc-content-box .nav-pills .nav-link {
+    padding: 5px 23px;
+    margin: 13px 0px;
+  }
+  .aboutme-doc-content-box #pills-profile-tab {
+    padding: 5px 57px;
+  }
+  .aboutme-doc-content-box #pills-home-tab {
+    padding: 5px 60px;
+  }
+  .aboutme-doc-content-box .nav-pills .nav-link {
+    font-size: 18px;
+  }
+  .foot-phone-content {
+    margin-bottom: 28px;
+  }
+}
+@media (max-width: 414px) {
+  .banner-content {
+    width: 70%;
+    margin: auto;
+  }
+  .home-andro-box-content-t-l {
+    padding: 10px 15px 40px 15px;
+  }
+  .home-andro-box-content-b {
+    padding: 50px 15px 15px 15px;
+  }
+  .home-andro-box-content-t {
+    padding: 15px 15px 50px 15px;
+  }
+  .copyright p {
+    font-size: 12px;
+  }
+  .foot-doc-dep-name h6 {
+    margin-bottom: 5px;
+    font-family: "poppinsregular";
+  }
+  .foot-doc-dep-name h6 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .copyright {
+    padding: 5px 0px;
+  }
+  .page-banner-content h1 {
+    padding-top: 50px;
+    font-size: 25px;
+  }
+  .page-banner-bg {
+    min-height: 140px;
+  }
+  .what-infertiliti-box h3 {
+    font-size: 22px;
+  }
+  .common-infertility h5 {
+    font-size: 20px;
+  }
+  .treatement-content-box h5 {
+    font-size: 22px;
+  }
+  .obstructive-box h6 {
+    font-size: 22px;
+  }
+  .inferlitity-causes-box h6 {
+    font-size: 20px;
+  }
+  .infertility-sperm-title h3 {
+    font-size: 22px;
+  }
+  .infertility-sperm-title h3 {
+    font-size: 22px;
+  }
+  .what-infertiliti-box h3 {
+    font-size: 22px;
+  }
+  .page-banner-content h1 {
+    font-size: 25px;
+  }
+  .page-banner-video-sec .video-item .video-img {
+    height: 210px;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    width: 55%;
+  }
+  .abo-tabs-date-content p {
+    font-size: 16px;
+  }
+  .aboutus-tabs-content {
+    padding: 60px 25px 30px 25px;
+  }
+  .sexual-sysfunction-content .nav-pills .nav-link {
+    margin-bottom: 12px;
+    padding: 10px 7px;
+    font-size: 16px;
+  }
+  .sexual-sysfuction-tabs-sec h4 {
+    font-size: 18px;
+  }
+  .treat-tabs-img-box {
+    padding-bottom: 15px;
+  }
+  .mens-health-content h1 {
+    font-size: 22px;
+  }
+  .mens-health-img-box {
+    padding-bottom: 15px;
+  }
+  .traetement-page-tabs .nav-pills .nav-link {
+    padding: 6px 15px;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  .condition-andro-title p {
+    font-size: 15px;
+  }
+  .condition-andro-title h1 {
+    font-size: 22px;
+  }
+  .impor-andro-content h1 {
+    font-size: 22px;
+  }
+  .andro-conclusion {
+    padding: 20px !important;
+  }
+}
+@media (max-width: 375px) {
+  .index-banner {
+    height: 200px !important;
+  }
+  .home-andrology-sec {
+    padding: 35px 0px;
+  }
+  .foot-social ul {
+    display: block;
+  }
+  .foot-social ul li {
+    margin-bottom: 10px;
+  }
+  .foot-doc-name h3 {
+    font-size: 18px;
+    margin-bottom: 4px;
+  }
+  .video-item .video-img {
+    height: 190px;
+  }
+  .banner-content {
+    width: 90%;
+    margin: auto;
+  }
+  .copyright p {
+    font-size: 10px;
+  }
+  .what-infertiliti-box h3 {
+    font-size: 19px;
+  }
+  .common-infertility h5 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .about-infertility-box h5 {
+    font-size: 19px;
+    line-height: 25px;
+  }
+  .treatement-content-box h5 {
+    font-size: 19px;
+  }
+  .obstructive-box h6 {
+    font-size: 19px;
+  }
+  .inferlitity-causes-box h6 {
+    font-size: 17px;
+  }
+  .infertility-sperm-title h3 {
+    font-size: 19px;
+  }
+  .infertility-sperm-title h3 {
+    font-size: 19px;
+  }
+  .what-infertiliti-box h3 {
+    font-size: 19px;
+  }
+  .page-banner-content h1 {
+    font-size: 22px;
+  }
+  .page-banner-bg {
+    min-height: 120px;
+  }
+  .what-infertility-top-box {
+    padding: 25px 0px;
+  }
+  .azoospermia-sec {
+    padding-top: 30px;
+  }
+  .blogs-details-content h4 {
+    font-size: 17px;
+  }
+  .blog-title h4 {
+    font-size: 20px;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    width: 63%;
+  }
+  .aboutus-content {
+    padding: 22px 20px 20px 20px;
+  }
+  .aboutus-tabs-content {
+    padding: 60px 20px 30px 20px;
+  }
+  .aboutus-tabs-content h3 {
+    font-size: 18px;
+  }
+  .aboutus-doc-name h4 {
+    font-size: 17px;
+  }
+  .aboutus-doc-name h3 {
+    font-size: 19px;
+  }
+  .aboutus-doc-name h1 {
+    font-size: 25px;
+  }
+  .aboutme-doc-content-box .nav.nav-pills {
+    width: 73%;
+  }
+  .page-banner-video-sec .video-item .video-img {
+    height: 190px;
+  }
+  .traetement-page-tabs .nav-pills .nav-link {
+    padding: 4px 8px;
+    font-size: 14px;
+    margin-left: 7px;
+  }
+}
+@media (max-width: 320px) {
+  .banner-content h2 {
+    font-size: 15px;
+  }
+  .banner-content {
+    width: 80%;
+    margin: auto;
+  }
+  .banner-content h1 {
+    font-size: 17px;
+  }
+  .index-banner {
+    height: 175px !important;
+  }
+  .mean-container a.meanmenu-reveal {
+    width: 26px;
+  }
+  .menu-text {
+    font-size: 15px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    height: 2px;
+  }
+  .head-nav {
+    height: 27px;
+  }
+  .header-icon-left {
+    width: 23%;
+  }
+  .header-doc-name h1 {
+    font-size: 25px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    height: 2px;
+  }
+  .mean-container a.meanmenu-reveal {
+    top: -6px;
+  }
+  .menu-text {
+    margin-top: 4px;
+  }
+  .banner-area {
+    margin-top: -52px;
+  }
+  .home-andrology-title h1 {
+    font-size: 20px;
+  }
+  .testi-video-content h1 {
+    font-size: 20px;
+  }
+  .testimonial-title h1 {
+    font-size: 20px;
+  }
+  .foot-doc-name h3 {
+    font-size: 20px;
+  }
+  .home-about-content h1 {
+    font-size: 20px;
+  }
+  .home-andrology-box.five .home-andro-box-img-b {
+    width: 65%;
+  }
+  .home-andrology-box.five .home-andro-box-img-b {
+    width: 65%;
+  }
+  .home-andrology-box.five .home-andro-box-content-t-l {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .home-andrology-sec .col {
+    flex: 1 0 100%;
+  }
+  .mean-container .mean-nav {
+    margin-top: 87px !important;
+  }
+  .mean-container a.meanmenu-reveal.meanclose {
+    top: -6px;
+    font-size: 20px !important;
+    color: #fff !important;
+  }
+  .contacform-sec h4 {
+    font-size: 17px;
+  }
+  .blog-title h4 {
+    font-size: 17px;
+  }
+  .video-gal-content h5 {
+    font-size: 17px;
+  }
+  .page-banner-video-sec .video-item .video-img {
+    height: 165px;
+  }
+  .home-about-sec {
+    margin-top: -22px;
+  }
+  .video-item .video-img {
+    height: 165px;
+  }
+}
